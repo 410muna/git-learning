@@ -1,2 +1,2 @@
-mmnmnm
+new line in github to create the conflict
 This is a new file , will stay not longer time 
